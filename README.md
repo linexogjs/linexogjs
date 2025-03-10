@@ -2,15 +2,15 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flinexogjs%2Flinexogjs&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 👋 안녕하세요! 저는 [사용자명]입니다.  
-백엔드 개발자를 목표로 공부하고 있으며, 다양한 프로젝트를 통해 성장하고 있습니다.  
-문제 해결과 효율적인 코드 작성에 관심이 많아요! 🚀  
+### 👋 안녕하세요! 저는 대림대 심화과정, KH에서 AWS 국비를 수강 중인 박태헌 입니다.
+처음엔 백엔드 개발자를, 훗날엔 풀스택 개발자를 목표로 공부하고 있으며, 다양한 프로젝트를 통해 성장하고 싶습니다. 
 
 ---
 
 ### 🛠️ 기술 스택  
 💻 **백엔드**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)  
 
