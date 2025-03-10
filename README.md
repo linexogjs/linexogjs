@@ -38,12 +38,14 @@
 ---
 
 ### 📖 블로그 & 프로젝트  
-📝 **블로그:** [개인 개발자 블로그 사용자 Ver.](https://linexogjs.github.io/)
-🔥 **진행 중인 프로젝트:** [Firebase로 백엔드 작업 진행 중, github 배포 사용자 Ver.](https://linexogjs.github.io/)
-🚀 **진행 완료된 프로젝트** [학교 개인프로젝트](https://daelimx-e1100.web.app/profile)
-📬 **연락처**  
-    - ✉️ Email: [linexogjs@naver.com], [linexogjs1234@gmail.com]  
-    - 💼 GitHub: [https://github.com/linexogjs]  
+- 📝 **블로그:** [개인 개발자 블로그](https://linexogjs.github.io/)  
+- 🔥 **진행 중인 프로젝트:** [Firebase로 백엔드 작업 진행 중, GitHub 배포](https://linexogjs.github.io/)  
+- 🚀 **진행 완료된 프로젝트:** [학교 개인 프로젝트](https://daelimx-e1100.web.app/profile/)  
+
+### 📬 연락처  
+- ✉️ **Email:** linexogjs@naver.com, linexogjs1234@gmail.com  
+- 💼 **GitHub:** [https://github.com/linexogjs](https://github.com/linexogjs)  
+
 
 ---
 
