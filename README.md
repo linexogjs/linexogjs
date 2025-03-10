@@ -2,8 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flinexogjs%2Flinexogjs&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 👋 안녕하세요! 저는 대림대 심화과정, KH에서 AWS 국비를 수강 중인 박태헌 입니다.
-처음엔 백엔드 개발자를, 훗날엔 풀스택 개발자를 목표로 공부하고 있으며, 다양한 프로젝트를 통해 성장하고 싶습니다. 
+### 👋 안녕하세요! 저는 대림대 심화과정, 역삼 KH정보교육원에서 AWS 국비를 수강 중인 박태헌 입니다.
+현재엔 백엔드 개발자를, 훗날엔 풀스택 개발자를 목표로 공부하고 있으며, 다양한 프로젝트를 통해 성장하고 싶습니다. 
 
 ---
 
@@ -21,23 +21,24 @@
 
 🛠 **개발 도구**  
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 
 ---
 
 ### 📊 GitHub 활동  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=<사용자명>&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<사용자명>&layout=compact&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=<linexogjs>&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<linexogjs>&layout=compact&theme=tokyonight)  
 
 ---
 
 ### 📖 블로그 & 프로젝트  
-📝 **블로그:** [My Dev Blog](https://<사용자명>.github.io)  
-🔥 **진행 중인 프로젝트:** [프로젝트명](https://github.com/<사용자명>/<프로젝트명>)  
+📝 **블로그:** [My Dev Blog](https://linexogjs.github.io/)  
+🔥 **진행 중인 프로젝트:** [My Dev Blog](https://linexogjs.github.io/)   
 
 📬 **연락처**  
-✉️ Email: [이메일 입력]  
-💼 GitHub: [https://github.com/사용자명](https://github.com/사용자명)  
+✉️ Email: [linexogjs@naver.com], [linexogjs1234@gmail.com]  
+💼 GitHub: [https://github.com/linexogjs]  
 
 ---
 
