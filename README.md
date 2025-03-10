@@ -1,9 +1,12 @@
-## Hi there 👋
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flinexogjs%2Flinexogjs&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-### 👋 안녕하세요! 저는 대림대 심화과정, 역삼 KH정보교육원에서 AWS 국비를 수강 중인 박태헌 입니다.
+### 👋 안녕하세요! 박태헌 입니다.
 현재엔 백엔드 개발자를, 훗날엔 풀스택 개발자를 목표로 공부하고 있으며, 다양한 프로젝트를 통해 성장하고 싶습니다. 
+
+---
+
+### 🎓 학력 및 교육  
+- 🏫 **대림대학교 컴퓨터정보학부** 졸업  
+- 📚 **스마트소프트웨어학과** 전공심화과정 진행 중  
+- 💡 **역삼 KH정보교욱원에서 AWS 국비** 수강 중  
 
 ---
 
@@ -42,9 +45,6 @@
 💼 GitHub: [https://github.com/linexogjs]  
 
 ---
-
-_"배움에는 끝이 없다. 계속 성장하자!"_ 🚀  
-
 
 
 <!--
