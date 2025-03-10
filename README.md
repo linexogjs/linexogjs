@@ -38,7 +38,7 @@
 ---
 
 ### 📖 블로그 & 프로젝트  
-📝 **블로그:** [대학 개인프로젝트](https://daelimx-e1100.web.app/profile)
+📝 **블로그:** [대학 개인프로젝트](https://daelimx-e1100.web.app/profile/)
 🔥 **진행 중인 프로젝트:** [Firebase로 백엔드 작업 진행 중, github 배포 사용자 Ver.](https://linexogjs.github.io/)   
 📬 **연락처**  
     - ✉️ Email: [linexogjs@naver.com], [linexogjs1234@gmail.com]  
