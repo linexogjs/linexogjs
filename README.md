@@ -38,9 +38,18 @@
 ---
 
 ### 📖 블로그 & 프로젝트  
-- 📝 **블로그:** [개인 개발자 블로그, GitHub 배포, 사용자 Ver.](https://linexogjs.github.io/)  
-- 🔥 **진행 중인 프로젝트:** [Firebase로 백엔드 작업 진행 중, 파이어베이스 배포예정](https://linexogjs.github.io/)  
-- 🚀 **진행 완료된 프로젝트:** [학교 개인 프로젝트](https://daelimx-e1100.web.app/profile/)  
+- 📝 **블로그:** 
+    - [개인 개발자 블로그, GitHub 배포, 사용자 Ver.](https://linexogjs.github.io/)  
+- 🔥 **진행 중인 프로젝트:** 
+    - [Firebase로 백엔드 작업 진행 중, 파이어베이스 배포예정](https://linexogjs.github.io/)  
+- 🚀 **진행 완료된 프로젝트:** 
+    - [학교 개인 프로젝트](https://daelimx-e1100.web.app/profile/)  
+        - 구글계정과 일반회원 계정을 만들어 로그인, 로그아웃 기능, 글 작성과 삭제
+        - 사용자의 프로필 이미지 URL을 지원하여, 해당 URL이 있는 경우 이미지를 표시
+        - 만약 사용자가 프로필 이미지를 설정하지 않은 경우, 닉네임의 첫 글자를 표시
+        - 배경 이미지와 흐림 효과를 추가해 화면 디자인을 현대적으로 개선. 중앙 정렬된 카드 레이아웃을 사용하여 정보가 깔끔
+        - Photo 컴포넌트가 재사용 가능하도록 설계 
+        - 사용자의 **이름(displayName)**과 이메일을 화면에 표시. 사용자 이름이 없으면 "익명 사용자"를 기본값으로 표시
 
 ### 📬 연락처  
 - ✉️ **Email:** linexogjs@naver.com, linexogjs1234@gmail.com  
