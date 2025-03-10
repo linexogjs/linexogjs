@@ -1,12 +1,14 @@
-### 👋 안녕하세요! 박태헌 입니다.
-현재엔 백엔드 개발자를, 훗날엔 풀스택 개발자를 목표로 공부하고 있으며, 다양한 프로젝트를 통해 성장하고 싶습니다. 
+### 👋 안녕하세요! 제 이름은 박태헌 입니다.
+현재엔 백엔드 개발자를, 훗날엔 풀스택 개발자를 목표로 공부하고 있으며, 다양한 실무 프로젝트를 통해 성장하고 싶습니다. 
 
 ---
 
 ### 🎓 학력 및 교육  
+- 🎒 **수내고등학교** 졸업
 - 🏫 **대림대학교 컴퓨터정보학부** 졸업  
-- 📚 **스마트소프트웨어학과** 전공심화과정 진행 중  
-- 💡 **역삼 KH정보교욱원에서 AWS 국비** 수강 중  
+- 📚 **대림대학교 스마트소프트웨어학과** 전공심화과정 진행 중  
+- 💡 **역삼 KH정보교욱원에서 AWS 국비** 수강 중 
+    - **데이터 분석 모델링 DBA의 첫걸음 SQL 마스터하기** 강의 수강 중
 
 ---
 
@@ -38,26 +40,10 @@
 
 ### 📖 블로그 & 프로젝트  
 📝 **블로그:** [My Dev Blog](https://linexogjs.github.io/)  
-🔥 **진행 중인 프로젝트:** [My Dev Blog](https://linexogjs.github.io/)   
+🔥 **진행 중인 프로젝트:** [Firebase로 백엔드 작업 진행 중](https://linexogjs.github.io/)   
 
 📬 **연락처**  
 ✉️ Email: [linexogjs@naver.com], [linexogjs1234@gmail.com]  
 💼 GitHub: [https://github.com/linexogjs]  
 
 ---
-
-
-<!--
-**linexogjs/linexogjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
