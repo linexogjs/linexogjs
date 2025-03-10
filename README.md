@@ -41,8 +41,8 @@
 📝 **블로그:** [My Dev Blog](https://linexogjs.github.io/)  
 🔥 **진행 중인 프로젝트:** [Firebase로 백엔드 작업 진행 중](https://linexogjs.github.io/)   
 📬 **연락처**  
-✉️ Email: [linexogjs@naver.com], [linexogjs1234@gmail.com]  
-💼 GitHub: [https://github.com/linexogjs]  
+    - ✉️ Email: [linexogjs@naver.com], [linexogjs1234@gmail.com]  
+    - 💼 GitHub: [https://github.com/linexogjs]  
 
 ---
 
