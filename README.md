@@ -67,5 +67,4 @@
 - 필요한 자격증 취득하기 (**정보처리(산업)기사, CCNA, SQLD**)
 
 ### 🕰️ 25년도 1학기(상반기) 시간표
-
-![시간표](/images/timetable.png)
+![시간표](/images/timetable.jpg)
