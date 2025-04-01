@@ -54,7 +54,7 @@
 ### 📬 연락처  
 - ✉️ **Email:** linexogjs@naver.com, linexogjs1234@gmail.com  
 - 💼 **GitHub:** [https://github.com/linexogjs](https://github.com/linexogjs)  
-- ☎️ **전화번호** 010-6284-7816 (장난전화 고소.)
+- ☎️ **전화번호** : 010-6284-7816 (장난전화 고소.)
 
 ---
 
