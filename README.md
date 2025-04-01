@@ -8,7 +8,7 @@
 - 🏫 **대림대학교 컴퓨터정보학부** 졸업  
 - 📚 **대림대학교 스마트소프트웨어학과** 전공심화과정 진행 중  
 - 💡 **역삼 KH정보교욱원에서 AWS 국비** 수강 중 
-    - **데이터 분석 모델링 DBA의 첫걸음 SQL 마스터하기** 강의 수강 중
+    - **데이터 분석 모델링 DBA의 첫걸음 SQL 마스터하기** 강의 수강완료 (1년 다시보기 가능)
     
 ---
 
@@ -54,7 +54,7 @@
 ### 📬 연락처  
 - ✉️ **Email:** linexogjs@naver.com, linexogjs1234@gmail.com  
 - 💼 **GitHub:** [https://github.com/linexogjs](https://github.com/linexogjs)  
-
+- ☎️ **전화번호** 010-6284-7816 (장난전화 고소.)
 
 ---
 
