@@ -50,6 +50,7 @@
         - 배경 이미지와 흐림 효과를 추가해 화면 디자인을 현대적으로 개선. 중앙 정렬된 카드 레이아웃을 사용하여 정보가 깔끔
         - Photo 컴포넌트가 재사용 가능하도록 설계 
         - 사용자의 **이름(displayName)**과 이메일을 화면에 표시. 사용자 이름이 없으면 "익명 사용자"를 기본값으로 표시
+    - [🧟 대림대_2학년2학기_C#_게임개발_Undead Survivor 다운로드 (.zip)](https://github.com/linexogjs/dev-blog/raw/main/C%23_game/Undead%20Survivor.zip)
 
 ### 📬 연락처  
 - ✉️ **Email:** linexogjs@naver.com, linexogjs1234@gmail.com  
