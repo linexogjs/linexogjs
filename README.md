@@ -51,8 +51,6 @@
         - Photo 컴포넌트가 재사용 가능하도록 설계 
         - 사용자의 **이름(displayName)**과 이메일을 화면에 표시. 사용자 이름이 없으면 "익명 사용자"를 기본값으로 표시
     - [🧟 대림대_2학년2학기_C#_게임개발_Undead Survivor 다운로드 (.zip)](https://github.com/linexogjs/dev-blog/raw/main/C%23_game/Undead%20Survivor.zip)
-        - 어떠한 이유로 404 에러..곧 수정하겠음
-        - 레포에 폴더 C# game에 우선 업로드
 
 ### 📬 연락처  
 - ✉️ **Email:** linexogjs@naver.com, linexogjs1234@gmail.com  
