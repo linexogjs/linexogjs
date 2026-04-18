@@ -71,11 +71,13 @@
 
 ![졸작 포스터](./images/대림대_졸작포스터.png)
 
-- 📘 **졸업 프로젝트(커리어브릿지) 정리**
-  - **노션** https://www.notion.so/263d492c2892803eaa69e53f831e6969
-  - **ppt** https://docs.google.com/presentation/d/1eu0nXzhgoFqsNPCgBZ-zNhAwAbtEzqGr6e1j_qHnQek/edit?usp=sharing
+- 📘 **졸업 프로젝트(커리어브릿지) 노션 정리**
+  - https://www.notion.so/263d492c2892803eaa69e53f831e6969
+
 - 🎥 **프로젝트 시연 영상**
-  - https://canva.link/vyfhjbaugwdxzj8
+
+[![커리어브릿지 프로젝트 시연](https://img.youtube.com/vi/PRVqvkF3rbQ/0.jpg)](https://youtu.be/PRVqvkF3rbQ)
+
 - 📦 **프로젝트 전반 문서 및 결과물**
   - [전체 자료 다운로드](./zip/커리어브릿지_박태헌.zip)
 
