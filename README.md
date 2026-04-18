@@ -1,4 +1,4 @@
-### 👋 안녕하세요! 제 이름은 박태헌 입니다.
+### 안녕하세요! 제 이름은 박태헌 입니다.
 
 현재는 자연계 **학사편입**을 목표로 학업에 집중하고 있으며,
 전공 역량 강화를 위해 기초부터 체계적으로 준비하고 있습니다.
@@ -61,7 +61,7 @@
     - 재사용 가능한 Photo 컴포넌트 설계
     - 사용자 이름(displayName) 및 이메일 표시
 
-  - [🧟 대림대 2학년 2학기 C# 게임개발 Undead Survivor 다운로드 (.zip)](https://github.com/linexogjs/dev-blog/raw/main/C%23_game/Undead%20Survivor.zip)
+  - [🧟 대림대 2학년 C# 게임개발 Undead Survivor 다운로드 (.zip)](https://github.com/linexogjs/dev-blog/raw/main/C%23_game/Undead%20Survivor.zip)
 
 - **잦은 AWS 비용 이슈로 인한 서버 중지**
 
@@ -71,9 +71,11 @@
 
 ![졸작 포스터](./images/대림대_졸작포스터.png)
 
-- 📘 **졸업 프로젝트(커리어브릿지) 노션 정리**
-  - https://www.notion.so/263d492c2892803eaa69e53f831e6969
-
+- 📘 **졸업 프로젝트(커리어브릿지) 정리**
+  - 노션 https://www.notion.so/263d492c2892803eaa69e53f831e6969
+  - ppt https://docs.google.com/presentation/d/1eu0nXzhgoFqsNPCgBZ-zNhAwAbtEzqGr6e1j_qHnQek/edit?usp=sharing
+- 🎥 **프로젝트 시연 영상**
+  - https://canva.link/vyfhjbaugwdxzj8
 - 📦 **프로젝트 전반 문서 및 결과물**
   - [전체 자료 다운로드](./zip/커리어브릿지_박태헌.zip)
 
